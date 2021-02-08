@@ -127,6 +127,7 @@
 
               //  var JsonData1 = ("[" + JsonData + "]");
                // var result = JSON.stringify(JSON.flatten(JSON.parse(JsonData1)));
+                //Testing Github
                var result = JSON.stringify(JSON.flatten(JSON.parse($("#txtJson").val())));
                var result1 = ("[" + result + "]");
  
